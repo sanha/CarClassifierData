@@ -9,3 +9,4 @@ Sanha Lee	Soochan Lee	Yongeun Lee
 - GPU platform: CUDA 7.5
 - GPU acceleration: cuDNN 7.0
 - BLAS tool: openBLAS
+- CV Library: OpenCV 3.0
