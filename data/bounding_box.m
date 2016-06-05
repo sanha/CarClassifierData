@@ -1,7 +1,7 @@
 function [bounding_box] = bounding_box(image_path, parts)
     % TODO: Modify to use multiple images
     I = imread(image_path);
-    fig = figure();
+    fig = figure('Resize', 'off');
     set(fig, 'OuterPosition', [200 100 1300 900]);
     imshow(I);
     bg = uibuttongroup('Visible', 'on', ...
