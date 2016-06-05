@@ -6,27 +6,27 @@
       <name>headlight</name>
       <bndbox>
          <xmin>154</xmin>
-         <ymin>129</ymin>
-         <xmax>348</xmax>
-         <ymax>219</ymax>
-      </bndbox>
-   </object>
-   <object>
-      <name>side_glass</name>
-      <bndbox>
-         <xmin>434</xmin>
-         <ymin>13</ymin>
-         <xmax>641</xmax>
-         <ymax>128</ymax>
+         <ymin>125</ymin>
+         <xmax>358</xmax>
+         <ymax>222</ymax>
       </bndbox>
    </object>
    <object>
       <name>front_view</name>
       <bndbox>
-         <xmin>0</xmin>
-         <ymin>127</ymin>
-         <xmax>350</xmax>
-         <ymax>339</ymax>
+         <xmin>20</xmin>
+         <ymin>124</ymin>
+         <xmax>344</xmax>
+         <ymax>371</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>side_glass</name>
+      <bndbox>
+         <xmin>420</xmin>
+         <ymin>17</ymin>
+         <xmax>627</xmax>
+         <ymax>121</ymax>
       </bndbox>
    </object>
 </annotation>
