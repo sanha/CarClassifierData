@@ -1,8 +1,8 @@
-parts = {'grill', 'headlight', 'backlight', 'side_glass', 'front_view', 'back_view'};
+parts = {'headlight', 'front_view',  'side_glass', 'backlight','back_view'};
 root_path = 'Images';
 
 images = dir(root_path);
-offset = 0;  % yongeun -> 0, sanha -> 337 , soochan -> 674
+offset = 270;  % yongeun -> 0, sanha -> 337 , soochan -> 674
              % 하다가 중간에 그만뒀으면 번호 보고 offset 추가...
 
 for imgIdx=3+offset:int16(size(images, 1)/16)
