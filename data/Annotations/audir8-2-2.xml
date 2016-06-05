@@ -2,4 +2,40 @@
 <annotation>
    <folder>car</folder>
    <filename>audir8-2-2.jpg</filename>
+   <object>
+      <name>grill</name>
+      <bndbox>
+         <xmin>282</xmin>
+         <ymin>125</ymin>
+         <xmax>375</xmax>
+         <ymax>176</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>headlight</name>
+      <bndbox>
+         <xmin>211</xmin>
+         <ymin>125</ymin>
+         <xmax>280</xmax>
+         <ymax>153</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>side glass</name>
+      <bndbox>
+         <xmin>81</xmin>
+         <ymin>68</ymin>
+         <xmax>179</xmax>
+         <ymax>112</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>front view</name>
+      <bndbox>
+         <xmin>184</xmin>
+         <ymin>105</ymin>
+         <xmax>399</xmax>
+         <ymax>185</ymax>
+      </bndbox>
+   </object>
 </annotation>

@@ -7,7 +7,7 @@ function [bounding_box] = bounding_box(image_path, parts)
     bg = uibuttongroup('Visible', 'on', ...
         'Position', [0 0 1 .07], ...
         'SelectionChangedFcn',@(bg,event) bselection(bg,event));
-    text_size = [60, 90, 90, 60, 70, 100, 100, 100];
+    text_size = [60, 90, 90, 100, 100, 100, 100, 100];
     left_padding = 30;
     
     bounding_box = uint16(zeros(size(parts, 2), 4));

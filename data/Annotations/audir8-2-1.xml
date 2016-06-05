@@ -5,55 +5,37 @@
    <object>
       <name>grill</name>
       <bndbox>
-         <xmin>2432</xmin>
-         <ymin>1020</ymin>
-         <xmax>3248</xmax>
-         <ymax>1473</ymax>
+         <xmin>2441</xmin>
+         <ymin>1054</ymin>
+         <xmax>3249</xmax>
+         <ymax>1469</ymax>
       </bndbox>
    </object>
    <object>
       <name>headlight</name>
       <bndbox>
-         <xmin>1899</xmin>
-         <ymin>1048</ymin>
-         <xmax>2450</xmax>
-         <ymax>1261</ymax>
+         <xmin>1841</xmin>
+         <ymin>1013</ymin>
+         <xmax>2492</xmax>
+         <ymax>1246</ymax>
       </bndbox>
    </object>
    <object>
-      <name>door</name>
+      <name>side glass</name>
       <bndbox>
-         <xmin>723</xmin>
-         <ymin>589</ymin>
-         <xmax>1490</xmax>
-         <ymax>1510</ymax>
-      </bndbox>
-   </object>
-   <object>
-      <name>fender</name>
-      <bndbox>
-         <xmin>1394</xmin>
-         <ymin>999</ymin>
-         <xmax>2062</xmax>
-         <ymax>1680</ymax>
+         <xmin>644</xmin>
+         <ymin>518</ymin>
+         <xmax>1525</xmax>
+         <ymax>888</ymax>
       </bndbox>
    </object>
    <object>
       <name>front view</name>
       <bndbox>
-         <xmin>1385</xmin>
-         <ymin>410</ymin>
-         <xmax>3399</xmax>
-         <ymax>1660</ymax>
-      </bndbox>
-   </object>
-   <object>
-      <name>side view</name>
-      <bndbox>
-         <xmin>101</xmin>
-         <ymin>494</ymin>
-         <xmax>2004</xmax>
-         <ymax>1674</ymax>
+         <xmin>1828</xmin>
+         <ymin>930</ymin>
+         <xmax>3405</xmax>
+         <ymax>1594</ymax>
       </bndbox>
    </object>
 </annotation>

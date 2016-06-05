@@ -1,4 +1,4 @@
-parts = {'grill', 'headlight', 'backlight', 'door', 'fender', 'front view', 'back view', 'side view'};
+parts = {'grill', 'headlight', 'backlight', 'side_glass', 'front_view', 'back_view'};
 
 root_path = 'raw';
 

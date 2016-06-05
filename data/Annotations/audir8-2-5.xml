@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>car</folder>
+   <filename>audir8-2-5.jpg</filename>
+   <object>
+      <name>grill</name>
+      <bndbox>
+         <xmin>1045</xmin>
+         <ymin>2133</ymin>
+         <xmax>2131</xmax>
+         <ymax>2731</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>headlight</name>
+      <bndbox>
+         <xmin>2175</xmin>
+         <ymin>2129</ymin>
+         <xmax>2835</xmax>
+         <ymax>2371</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>side glass</name>
+      <bndbox>
+         <xmin>3024</xmin>
+         <ymin>1320</ymin>
+         <xmax>3679</xmax>
+         <ymax>1826</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>front view</name>
+      <bndbox>
+         <xmin>768</xmin>
+         <ymin>2006</ymin>
+         <xmax>2949</xmax>
+         <ymax>2802</ymax>
+      </bndbox>
+   </object>
+</annotation>
