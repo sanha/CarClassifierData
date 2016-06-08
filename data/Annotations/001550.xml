@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>car</folder>
+   <filename>001550.jpg</filename>
+   <object>
+      <name>headlight</name>
+      <bndbox>
+         <xmin>409</xmin>
+         <ymin>85</ymin>
+         <xmax>505</xmax>
+         <ymax>130</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>front_view</name>
+      <bndbox>
+         <xmin>398</xmin>
+         <ymin>86</ymin>
+         <xmax>579</xmax>
+         <ymax>187</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>side_glass</name>
+      <bndbox>
+         <xmin>56</xmin>
+         <ymin>6</ymin>
+         <xmax>273</xmax>
+         <ymax>66</ymax>
+      </bndbox>
+   </object>
+</annotation>

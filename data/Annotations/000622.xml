@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>car</folder>
+   <filename>000622.jpg</filename>
+   <object>
+      <name>headlight</name>
+      <bndbox>
+         <xmin>373</xmin>
+         <ymin>78</ymin>
+         <xmax>441</xmax>
+         <ymax>117</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>front_view</name>
+      <bndbox>
+         <xmin>355</xmin>
+         <ymin>73</ymin>
+         <xmax>474</xmax>
+         <ymax>163</ymax>
+      </bndbox>
+   </object>
+</annotation>

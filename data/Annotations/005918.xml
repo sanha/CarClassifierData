@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+   <folder>car</folder>
+   <filename>005918.jpg</filename>
+   <object>
+      <name>headlight</name>
+      <bndbox>
+         <xmin>292</xmin>
+         <ymin>181</ymin>
+         <xmax>506</xmax>
+         <ymax>290</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>front_view</name>
+      <bndbox>
+         <xmin>13</xmin>
+         <ymin>118</ymin>
+         <xmax>511</xmax>
+         <ymax>441</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>side_glass</name>
+      <bndbox>
+         <xmin>756</xmin>
+         <ymin>56</ymin>
+         <xmax>1069</xmax>
+         <ymax>216</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>backlight</name>
+      <bndbox>
+         <xmin>1143</xmin>
+         <ymin>198</ymin>
+         <xmax>1179</xmax>
+         <ymax>284</ymax>
+      </bndbox>
+   </object>
+</annotation>
